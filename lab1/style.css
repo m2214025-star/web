@@ -1,0 +1,14 @@
+body {
+  background: rgb(240, 248, 255);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1, h2, h3 { font-weight: 600; }
+.description {
+  color: rgb(50, 50, 90);
+  font-size: 16px;
+  line-height: 1.6;
+  font-style: italic;
+}
+.menu li { list-style-type: none; margin: 0 10px; }
+.menu a { text-decoration: none; font-weight: 500; }
+.menu a:hover { text-decoration: underline; }
